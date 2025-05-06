@@ -4,7 +4,8 @@ Welcome to the VS Code Java world. Here is a guideline to help you get started t
 
 ## Scanner 
 Aprender utilizar o Scanner do Java.
-fazer o usuário digitar sua informações para acessar a sua conta.
+
+-fazer o usuário digitar sua informações para acessar a sua conta.
  
 ## Dependency Management
 
